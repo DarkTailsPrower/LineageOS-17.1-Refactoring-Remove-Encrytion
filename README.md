@@ -5,4 +5,9 @@ This project involves completely removing encryption or partially on the smartph
 join my discord - https://discord.gg/CuuGqXgUgw
 
 fs_mgr - hard to refactoring
+
 vold - is complete working
+
+This is a really huge job. 
+
+это очень огромная работа.
