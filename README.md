@@ -1,4 +1,4 @@
-# LineageOS-17.1-Refactoring-Remove-Encrytion
+# LineageOS-17.1-Refactoring-Remove-Encryption
 This project involves completely removing encryption or partially on the smartphone, and making sure there are no lags or overheating when running Android on an unencrypted /data.
 
 
