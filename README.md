@@ -6,7 +6,7 @@ join my discord - https://discord.gg/CuuGqXgUgw
 
 fs_mgr - hard to refactoring
 
-vold - is complete working
+vold - is complete refactoring code
 
 This is a really huge job. 
 
